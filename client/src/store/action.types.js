@@ -1,0 +1,11 @@
+export const GET_DATA = "GET_DATA";
+export const GET_DATA_SUCCESS = "GET_DATA_SUCCESS";
+export const GET_DATA_ERROR = "GET_DATA_ERROR";
+
+export const ADD_DATA = "ADD_DATA";
+export const ADD_DATA_SUCCESS = "ADD_DATA_SUCCESS";
+export const ADD_DATA_ERROR = "ADD_DATA_ERROR";
+
+export const DETELE_DATA = "DETELE_DATA";
+export const DETELE_DATA_SUCCESS = "DETELE_DATA_SUCCESS";
+export const DETELE_DATA_ERROR = "DETELE_DATA_ERROR";
